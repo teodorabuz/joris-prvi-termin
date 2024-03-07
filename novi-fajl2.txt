@@ -1,1 +1,1 @@
-neki tekst na master grani
+neki tekst dodat i na master i na nova-grana
